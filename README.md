@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Developer | Competitive Programmer
 
-<img src="YOUR_IMAGE_URL" width="180" />
+![image alt](https://github.com/imkrishna07/imkrishna07/blob/main/profile.jpeg?raw=true)
 
 </div>
 <div align="center">
