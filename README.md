@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**imkrishna07/imkrishna07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Krishna
 
-Here are some ideas to get you started:
+### Computer Science Student | Developer | Competitive Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="YOUR_IMAGE_URL" width="180" />
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Science student interested in **software development, competitive programming, AI, and cybersecurity**.
+
+Currently, I'm focused on:
+- Data Structures & Algorithms
+- Competitive Programming
+- MERN Stack Development
+- Building personal projects
+- Exploring AI and cybersecurity
+
+I enjoy learning by building things and experimenting with new technologies.
+
+## Currently Learning
+
+`C++` `Java` `JavaScript` `React` `Node.js` `Git` `DSA`
+
+## Projects
+
+- **Summer AI** — Personal AI assistant
+- **vHacks** — Online hackathon platform
+- More projects coming soon.
+
+## Goals
+
+- Improve my problem-solving skills
+- Participate in ICPC and hackathons
+- Contribute to open source
+- Build useful software
+
